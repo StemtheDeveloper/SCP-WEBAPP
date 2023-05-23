@@ -1,0 +1,73 @@
+[
+    {
+      "name": "SCP-173",
+      "class": "Euclid",
+      "description": "The Sculpture or The Statue. Appears to be a crudely constructed statue made of concrete and rebar. Capable of moving at high speeds when not observed.",
+      "containment_procedures": "SCP-173 is to be kept in a locked container at all times. Two personnel must enter the container to perform maintenance, but at least one person must maintain direct eye contact with SCP-173 at all times.",
+      "image": "https://example.com/scp173.jpg"
+    },
+    {
+      "name": "SCP-682",
+      "class": "Keter",
+      "description": "The Hard-to-Destroy Reptile. Resembles a massive reptile with extreme regenerative capabilities. Displays extreme hostility towards humans and other SCP objects.",
+      "containment_procedures": "SCP-682 is to be contained in a specially constructed containment chamber with reinforced steel walls. In the event of a breach, personnel are to evacuate immediately and use appropriate force to recontain the subject.",
+      "image": "https://example.com/scp682.jpg"
+    },
+    {
+      "name": "SCP-914",
+      "class": "Safe",
+      "description": "The Clockworks. Resembles a large clockwork machine capable of altering the properties of items placed inside it, producing various results from improvement to destruction.",
+      "containment_procedures": "SCP-914 is to be kept in a secure research facility. Testing must be authorized by Level 3 personnel, and any dangerous outcomes are to be reported immediately.",
+      "image": "https://example.com/scp914.jpg"
+    },
+    {
+      "name": "SCP-096",
+      "class": "Euclid",
+      "description": "The Shy Guy. A humanoid creature that becomes extremely hostile when its face is viewed. It will pursue and kill the observer.",
+      "containment_procedures": "SCP-096 is to be contained in a steel cube with no less than 5 cm of reinforced steel. Any visual or physical contact with SCP-096's face is strictly forbidden.",
+      "image": "https://example.com/scp096.jpg"
+    },
+    {
+      "name": "SCP-294",
+      "class": "Safe",
+      "description": "The Coffee Machine. Appears to be a standard coffee vending machine, but can dispense any liquid described on its keypad, even those not found on Earth.",
+      "containment_procedures": "SCP-294 is to be kept in a secure break room. Access is only permitted to personnel with Level 2 clearance or higher, and all liquid requests must be approved and logged.",
+      "image": "https://example.com/scp294.jpg"
+    },
+    {
+      "name": "SCP-049",
+      "class": "Euclid",
+      "description": "The Plague Doctor. A humanoid creature resembling a medieval plague doctor. Claims to be able to 'cure' individuals, but turns them into animated, zombie-like entities.",
+      "containment_procedures": "SCP-049 is to be contained in a standard humanoid containment cell. Any individuals exhibiting signs of SCP-049's 'cure' are to be immediately isolated and studied.",
+      "image": "https://example.com/scp049.jpg"
+    },
+    {
+      "name": "SCP-999",
+      "class": "Safe",
+      "description": "The Tickle Monster. A small, gelatinous creature that exhibits extreme friendliness and emits a unique empathetic slime that can heal psychological and physical distress.",
+      "containment_procedures": "SCP-999 is to be allowed to freely roam Site-██, but is not to be taken off-site. It is allowed to interact with personnel for therapeutic purposes and morale improvement.",
+      "image": "https://example.com/scp999.jpg"
+    },
+    {
+      "name": "SCP-3008",
+      "class": "Euclid",
+      "description": "An Infinite IKEA. SCP-3008 is an extradimensional space resembling a typical IKEA store. Individuals entering SCP-3008 may become trapped and experience strange phenomena.",
+      "containment_procedures": "Efforts to locate and contain SCP-3008 are ongoing. The area surrounding SCP-3008 is to be monitored, and no one is to enter the space except for research purposes with proper approval.",
+      "image": "https://example.com/scp3008.jpg"
+    },
+    {
+      "name": "SCP-6820",
+      "class": "Keter",
+      "description": "The Elder Dragon. SCP-6820 is a colossal reptilian creature with wings and destructive abilities, often described in mythological texts. It displays high intelligence and extreme hostility.",
+      "containment_procedures": "SCP-6820 is to be contained within a reinforced hangar and guarded by armed personnel at all times. Any attempts of SCP-6820 to breach containment should be met with full force.",
+      "image": "https://example.com/scp6820.jpg"
+    },
+    {
+      "name": "SCP-2000",
+      "class": "Thaumiel",
+      "description": "The Deus Ex Machina. SCP-2000 is a massive facility capable of reconstructing civilization after a global cataclysm. It contains advanced technology and is staffed by Foundation personnel.",
+      "containment_procedures": "SCP-2000 is to be monitored for signs of activation and kept operational at all times. Regular drills and maintenance are required to ensure its functionality in case of a global catastrophe.",
+      "image": "https://example.com/scp2000.jpg"
+    }
+  ]
+  
